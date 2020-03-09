@@ -1,7 +1,7 @@
 # KaggleFraudDetection
 
 Final notebook is named:
-### FraudDetect-MultipleSolutions-Compare.ipynb
+  - FraudDetect-MultipleSolutions-Compare.ipynb
 
 Credit Card Fraud Detection
 Anonymized credit card transactions labeled as fraudulent or genuine
